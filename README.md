@@ -18,7 +18,11 @@ Welcome to **VistaVibes**! Your go-to app for discovering beautiful nature spots
 - **Material Design**: Modern and clean user interface design.
 
 ## 📸 Screenshots
-
+<p align="center">
+  <img src="assets/images/ScreenShot%201.png" alt="VistaVibes" width="300"/>
+  <img src="assets/images/ScreenShot%202.png" alt="VistaVibes" width="300"/>
+  <img src="assets/images/ScreenShot%203.png" alt="VistaVibes" width="300"/>
+</p>
 
 ## 🙏 Credits
 This UI App is inspired by **Aspen Travel App Exploration - Mobile App** Design by **Nickelfox Design**. A big shoutout to them for the inspiration! 👏
