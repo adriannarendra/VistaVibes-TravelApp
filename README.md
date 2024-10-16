@@ -19,9 +19,9 @@ Welcome to **VistaVibes**! Your go-to app for discovering beautiful nature spots
 
 ## 📸 Screenshots
 <p align="center">
-  <img src="assets/images/ScreenShot%201.png" alt="VistaVibes" width="300"/>
-  <img src="assets/images/ScreenShot%202.png" alt="VistaVibes" width="300"/>
-  <img src="assets/images/ScreenShot%203.png" alt="VistaVibes" width="300"/>
+  <img src="assets/images/ScreenShot%201-min.png" alt="VistaVibes" width="300"/>
+  <img src="assets/images/ScreenShot%202-min.png" alt="VistaVibes" width="300"/>
+  <img src="assets/images/ScreenShot%203-min.png" alt="VistaVibes" width="300"/>
 </p>
 
 ## 🙏 Credits
